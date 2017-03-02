@@ -38,6 +38,7 @@ journal
 *.com
 *.class
 *.dll
+!**/References/*.dll
 *.exe
 *.o
 *.so
@@ -61,7 +62,7 @@ journal
 *.log
 *.sql
 *.sqlite
-# *.sdf
+#*.sdf
 *.mdf
 *.ldf
 
