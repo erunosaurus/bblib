@@ -1,2 +1,2 @@
-# BBlib
+# BBLib
 Bloomberg API Library
